@@ -1,1 +1,1 @@
-console.log("Js file added");
+console.log("Js file added for demo purpose");
